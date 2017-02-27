@@ -1,0 +1,116 @@
+a:link{text-decoration: none; color: #744896;}
+a:visited{text-decoration: none; color: #744896;}
+a:hover{text-decoration: none; color: #4eb1e4;}
+
+.navi a:link {
+    letter-spacing: 1;
+    text-decoration: none;
+    background-color: #744896;
+    padding-top: 3;
+    padding-bottom: 3;
+    padding-right: 10;
+    padding-left: 10;
+    color: #FFFFFF;
+}
+
+.navi a:visited {
+    letter-spacing: 1;
+    text-decoration: none;
+    background-color: #744896;
+    padding-top: 3;
+    padding-bottom: 3;
+    padding-right: 10;
+    padding-left: 10;
+    color: #FFFFFF; 
+}
+
+.navi a:hover {
+    letter-spacing: 1;
+    text-decoration: none;
+    background-color: #333333;
+    padding-top: 3;
+    padding-bottom: 3;
+    padding-right: 10;
+    padding-left: 10;
+    color: #FFFFFF; 
+}
+
+
+#text{
+    color: #333333;
+    font-size: 120%;
+    font-family: icomoon-standard; 
+    letter-spacing: 1;
+    margin-left: 100;
+    margin-right: 100;
+}
+
+#text2{ 
+    color: #333333;
+    font-size: 100%;
+    font-family: icomoon-standard; 
+    letter-spacing: 1;
+    margin-left: 100;
+    margin-right: 100;
+}
+
+#textBox{
+    color: #333333;
+    font-size: 120%;
+    font-family: icomoon-standard; 
+    letter-spacing: 1;
+    margin-top: 10;
+    margin-left: 100;
+    margin-right: 100;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    border-left: 3px;
+    border-color: #744896; 
+    background-color: #d2eef9;
+}
+
+#titelText{
+    color: #333333;
+    font-size: 200%;
+    font-family: icomoon-standard; 
+    letter-spacing: 1;
+    margin-top: 10;
+    margin-left: 100;
+    margin-right: 100;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    border-left: 3px;
+    border-color: #744896; 
+    background-color: #d2eef9;
+    
+    
+}
+
+#inhalt { 
+    border: 25px green;
+    width: 900px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    font-family: gesta, sans-serif; 
+}
+
+
+#bild {
+    background-color: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+}
+
+
+#line1{
+    padding-bottom: 10px;
+}
+
+
+#navigation {
+    text-align: center; 
+    padding-bottom: 10px; 
+}
